@@ -19,7 +19,8 @@ a{
 
     width:100%;
     height:100vh;
-    background-color: rgb(153, 30, 19);
+    background: rgb(3,2,83);
+    background: linear-gradient(180deg, rgba(3,2,83,1) 15%, rgba(152,159,235,1) 100%);
     display:flex;
     justify-content:center;
 
@@ -59,7 +60,7 @@ a{
 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    color:rgb(168, 168, 248);
+    color:rgb(201, 201, 248);
     text-align:center;
 }
 
@@ -83,7 +84,7 @@ a{
 
 .box:hover .dchero{
 
-    color:#c0292b;
+    color:#89a4fb;
     transition: all ease 0.5s;
 
 }
